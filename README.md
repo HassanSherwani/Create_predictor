@@ -1,6 +1,8 @@
-# create Predictor
+# Create a Predictor
 
 We have three datasets with each data set having its own predictor.We will apply concepts from Econometrics, machine learning and deep learning.
+
+# Content
 
 # Modules
 
