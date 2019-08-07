@@ -1,6 +1,10 @@
-# Predict_sales_permonth
-Application of regression analysis
+# create Predictor
 
+We have three datasets with each data set having its own predictor.We will apply concepts from Econometrics, machine learning and deep learning.
+
+# Modules
+
+pandas,numpy,seaborn,matplotlib,keras,tensorflow,sklearn,statsmodels
 
 # References
 
