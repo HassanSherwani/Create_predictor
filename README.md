@@ -14,3 +14,4 @@ pandas,numpy,seaborn,matplotlib,keras,tensorflow,sklearn,statsmodels
 
 - https://www.researchgate.net/post/using_neural_networks_instead_of_regression
 
+- https://statisticsbyjim.com/regression/interpret-r-squared-regression/
