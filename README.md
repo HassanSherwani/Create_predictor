@@ -18,7 +18,7 @@ There are five notebooks in this repository;
 
 # Modules
 
-pandas,numpy,seaborn,matplotlib,keras,tensorflow,sklearn,statsmodels,pandas_profiling.
+pandas, numpy, seaborn, matplotlib, keras, tensorflow, sklearn, statsmodels, pandas_profiling.
 
 # References
 
